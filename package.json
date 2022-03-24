@@ -2,8 +2,9 @@
   "name": "email-editor-ladiflow",
   "version": "1.0.0",
   "description": "Email Editor Component for React.js",
-  "main": "index.js",
   "module": "es/index.js",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "files": [
     "css",
     "es",
@@ -12,7 +13,8 @@
   ],
   "scripts": {
     "dev": "node_modules/webpack/bin/webpack.js --mode production --watch --progress --hide-modules",
-    "build": "node_modules/webpack/bin/webpack.js --mode production --progress --hide-modules"
+    "build": "node_modules/webpack/bin/webpack.js --mode production --progress --hide-modules",
+    "build-dev": "tsc"
   },
   "dependencies": {
     "dts-gen": "^0.6.0"
