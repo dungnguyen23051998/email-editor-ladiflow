@@ -1,6 +1,6 @@
 {
   "name": "email-editor-ladiflow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Email Editor Component for React.js",
   "module": "es/index.js",
   "main": "lib/index.js",
