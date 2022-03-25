@@ -1,10 +1,10 @@
-# React Email Editor
+# Email Editor Ladiflow
 
 The excellent drag-n-drop email editor by [Unlayer](https://unlayer.com/embed) as a [React.js](http://facebook.github.io/react) _wrapper component_. This is the most powerful and developer friendly visual email builder for your app.
 
 |                                                          Video Overview                                                           |
 | :-------------------------------------------------------------------------------------------------------------------------------: |
-| [![React Email Editor](https://unroll-assets.s3.amazonaws.com/unlayervideotour.png)](https://www.youtube.com/watch?v=MIWhX-NF3j8) |
+| [![Email Editor Ladiflow](https://unroll-assets.s3.amazonaws.com/unlayervideotour.png)](https://www.youtube.com/watch?v=MIWhX-NF3j8) |
 |                                       _Watch video overview: https://youtu.be/MIWhX-NF3j8_                                        |
 
 ## Live Demo
@@ -17,7 +17,7 @@ Here's a blog post with a quickstart guide: https://medium.com/unlayer-blog/crea
 
 ## Installation
 
-The easiest way to use React Email Editor is to install it from NPM and include it in your own React build process.
+The easiest way to use Email Editor Ladiflow is to install it from NPM and include it in your own React build process.
 
 ```
 npm install react-email-editor --save

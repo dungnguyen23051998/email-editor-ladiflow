@@ -75,7 +75,7 @@ const DesignEdit = (props) => {
   return (
     <Container>
       <Bar>
-        <h1>React Email Editor (Demo)</h1>
+        <h1>Email Editor Ladiflow (Demo)</h1>
 
         <Link to={`/dashboard`}>Dashboard</Link>
         <button onClick={saveDesign}>Save Design</button>
