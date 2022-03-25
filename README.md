@@ -20,7 +20,7 @@ Here's a blog post with a quickstart guide: https://medium.com/unlayer-blog/crea
 The easiest way to use React Email Editor is to install it from NPM and include it in your own React build process.
 
 ```
-npm install email-editor-ladiflow --save
+npm install react-email-editor --save
 ```
 
 ## Usage
